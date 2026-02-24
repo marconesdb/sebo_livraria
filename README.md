@@ -2,7 +2,8 @@
 
 Uma plataforma moderna e elegante para compra e venda de livros usados, focada em economia circular e acessibilidade literária.
 
-![Preview](https://picsum.photos/seed/sebo-preview/1200/600)
+![Preview](./Preview.png)
+
 
 ## 🚀 Tecnologias
 
